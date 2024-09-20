@@ -1,2 +1,2 @@
 # jember-asyncapi
-Async API - In Dev
+Async API - In Dev for testing and development
